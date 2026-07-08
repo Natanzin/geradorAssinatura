@@ -32,10 +32,10 @@ A aplicação permite preencher os dados do servidor, visualizar a assinatura em
 ```text
 geradorAssinatura/
 │
-├── assets/
-│   ├── css/
-│   ├── img/
-│   └── js/
+├── img/
+│   ├── assinatura.png
+│   └── regua-gov.png
+│
 │
 ├── index.html
 ├── script.js
